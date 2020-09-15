@@ -1,7 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Alexandra Excell PSID: 1595971
 
 user_num1 = int(input('Enter integer:\n'))
 num_squared = user_num1**2
